@@ -1,0 +1,16 @@
+D:\Studia\Подготовка\Подготовка\bin\Debug\net5.0\Подготовка.exe
+D:\Studia\Подготовка\Подготовка\bin\Debug\net5.0\Подготовка.deps.json
+D:\Studia\Подготовка\Подготовка\bin\Debug\net5.0\Подготовка.runtimeconfig.json
+D:\Studia\Подготовка\Подготовка\bin\Debug\net5.0\Подготовка.runtimeconfig.dev.json
+D:\Studia\Подготовка\Подготовка\bin\Debug\net5.0\Подготовка.dll
+D:\Studia\Подготовка\Подготовка\bin\Debug\net5.0\ref\Подготовка.dll
+D:\Studia\Подготовка\Подготовка\bin\Debug\net5.0\Подготовка.pdb
+D:\Studia\Подготовка\Подготовка\obj\Debug\net5.0\Подготовка.csproj.AssemblyReference.cache
+D:\Studia\Подготовка\Подготовка\obj\Debug\net5.0\Подготовка.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Подготовка\Подготовка\obj\Debug\net5.0\Подготовка.AssemblyInfoInputs.cache
+D:\Studia\Подготовка\Подготовка\obj\Debug\net5.0\Подготовка.AssemblyInfo.cs
+D:\Studia\Подготовка\Подготовка\obj\Debug\net5.0\Подготовка.csproj.CoreCompileInputs.cache
+D:\Studia\Подготовка\Подготовка\obj\Debug\net5.0\Подготовка.dll
+D:\Studia\Подготовка\Подготовка\obj\Debug\net5.0\ref\Подготовка.dll
+D:\Studia\Подготовка\Подготовка\obj\Debug\net5.0\Подготовка.pdb
+D:\Studia\Подготовка\Подготовка\obj\Debug\net5.0\Подготовка.genruntimeconfig.cache
